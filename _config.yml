@@ -1,6 +1,4 @@
-title: Minimal theme
-logo: /assets/logo2.png
-description: description here
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+logo: /assets/MainLogo.png
+title: Kayla Elizabeth Campana, Texts & Technology PhD Student
+description: Kayla Elizabeth Campana, Texts & Technology PhD Student
