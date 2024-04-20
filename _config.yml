@@ -9,14 +9,10 @@ content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis cons
 
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
+  - platform: instagram
+    url: https://instagram.com/kaylaecampana
   - platform: linkedin
-    url: brianmaierjr
+    url: kaylaecampana
 
 # General settings
 # url: http://kaylaecampana.github.com/main
