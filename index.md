@@ -1,3 +1,4 @@
+![Featured Image](/assets/kaylacollage.png)
 # Curriculum Vitae
 
 ## Education
